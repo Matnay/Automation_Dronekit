@@ -1,2 +1,2 @@
 # Automation_Dronekit
-Automation Algorithms implemnted in Dronekit Python
+Automation Algorithms implemented in Dronekit Python
